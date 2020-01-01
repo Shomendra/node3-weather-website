@@ -1,6 +1,6 @@
 
 
-console.log('Clinet side JAVA SCRIPT page loaded')
+//console.log('Clinet side JAVA SCRIPT page loaded')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //    response.json().then((data)=>{
